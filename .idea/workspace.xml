@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57c46045-93a6-4926-9a8b-9fa96ec5c7c7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minerals.html" beforeDir="false" afterPath="$PROJECT_DIR$/minerals.html" afterDir="false" />
-    </list>
+    <list default="true" id="57c46045-93a6-4926-9a8b-9fa96ec5c7c7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,28 +14,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="agriculture.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/agriculture.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="33" column="3" selection-start-line="33" selection-end-line="73" />
-              <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-594">
+            <state relative-caret-position="-124">
               <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minerals.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="minerals.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/minerals.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="213">
@@ -48,6 +33,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/logo.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
@@ -172,6 +162,11 @@
               <item name="brazilian goods direct" type="b2602c69:ProjectViewProjectNode" />
               <item name="brazilian goods direct" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="brazilian goods direct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brazilian goods direct" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -211,12 +206,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563930232824</updated>
-      <workItem from="1563930236924" duration="2074000" />
+      <workItem from="1563930236924" duration="2284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2074000" />
+    <option name="totallyTimeSpent" value="2284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-15" y="23" width="1440" height="800" extended-state="0" />
@@ -331,13 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/minerals.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -345,6 +333,16 @@
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
         </state>
       </provider>
     </entry>
